@@ -52,7 +52,7 @@ Using **HTML, CSS, and JavaScript**, I designed my portfolio website.
 
 ## TASK 8: RESOURCE ARTICLE USING MARKDOWN
 I wrote an article about **Salt Batteries** and how they are a better alternative to regular Lithium-ion batteries.  
-[Article](article.md)
+[Article](https://github.com/NiranjanaReddy/Article/blob/main/article.md)
 
 
 ---
@@ -102,7 +102,7 @@ The alarm works on the basis of the given truth table:
 ---
 ## TASK 15: Active Participation
 I successfully completed a course on Siemens NX CAD, gaining foundational knowledge and practical skills in computer-aided design (CAD) using this industry-leading software. During the course, I learned how to navigate the Siemens NX interface, create 2D sketches, and develop 3D models efficiently.
-![Certification](https://www.linkedin.com/posts/niranjana-reddy-338686249_siemensnxcad-cadcam-engineering-activity-7272803647040700416-EMLS?utm_source=share&utm_medium=member_desktop)
+![Certification](https://photos.app.goo.gl/FmeAkTy84rKFFXB18)
 
 ## TASK 16: DATASHEETS REPORT WRITING
 The **L293D** is a dual-channel H-bridge motor driver IC, capable of controlling two DC motors independently or one stepper motor. Each channel operates as a full H-bridge, allowing motors to run forward, backward, or stop. It supports a variety of loads such as 4 uni-directional DC motors, 2 bi-directional DC motors, 1 stepper motor, solenoids, or inductive loads.  
