@@ -14,9 +14,10 @@ In this task, I learned about what an API (Application Programming Interface) is
 ---
 
 ## TASK 3: WORKING WITH GITHUB
-In this task, I started by forking the given repository to my GitHub account and cloning it to my computer. Then, I created a new branch called `"NiranjanaReddy"` to fix an error in the code. The error was caused by a `+1` in the `main.py` file, so I corrected it. After making the changes, I staged and committed them, then pushed the branch to my forked repository. Finally, I created a pull request to merge my changes into the main branch.  
-![Pull Request](Pull%20request%20on%20gitHub.png)
-**[GITHUB LINK](https://github.com/NiranjanaReddy/git-task)**
+In this task, I started by forking the given repository to my GitHub account and cloning it to my computer. Then, I created a new branch called "NiranjanaReddy" to fix an error in the code. The error was caused by a `+1` in the `main.py` file, so I corrected it. After making the changes, I staged and committed them, then pushed the branch to my forked repository. Finally, I created a pull request to merge my changes into the main branch.  
+![Pull Request](Pull%20request%20on%20gitHub.png)  
+[GitHub Link](https://github.com/NiranjanaReddy/git-task)  
+
 ---
 
 ## TASK 4: UBUNTU COMMAND LINE
@@ -51,8 +52,8 @@ Using **HTML, CSS, and JavaScript**, I designed my portfolio website.
 
 ## TASK 8: RESOURCE ARTICLE USING MARKDOWN
 I wrote an article about **Salt Batteries** and how they are a better alternative to regular Lithium-ion batteries.  
-**THE ARTICLE**  
-**IMAGE**
+[Article](article.md)
+
 
 ---
 
@@ -181,4 +182,5 @@ Augmented Reality (AR) overlays digital information and virtual objects onto the
 
 #### Conclusion
 Virtual Reality and Augmented Reality represent the next frontier in how we interact with digital content and environments. While VR takes users to entirely virtual spaces, AR enhances their physical surroundings by adding digital overlays. The rapid development of hardware, software, and connectivity ensures that both technologies are ready to transform industries such as gaming, healthcare, education, and retail. In India, companies are leveraging these technologies to create innovative solutions that cater to local and global markets, signifying the country's growing role in this dynamic field.
+
 ----------------------------------------------------
