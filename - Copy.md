@@ -90,6 +90,7 @@ I learned how the soldering iron works and other accessories like the sponge, as
 ## TASK 13: 555 IC ASTABLE MULTIVIBRATOR WITH 60% DUTY CYCLE
 I understood the working of the **555 timer IC**. The task was to design a **555 astable multivibrator** with a **60% duty cycle**. First, I calculated the ratio of resistors required for designing the astable multivibrator. After **3 failed attempts**, on the **fourth attempt**, I achieved a duty cycle of **60.49%**.  
 ![Connections Image](555%20output.jpeg)  
+![Circuit](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/555%20circuit.jpeg)
 
 ---
 
