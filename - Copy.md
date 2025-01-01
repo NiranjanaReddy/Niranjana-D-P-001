@@ -65,8 +65,7 @@ I started by exploring the **Tinkercad** application, learning how to set up cir
 
 ## TASK 10: SPEED CONTROL OF DC MOTOR
 This task helped me understand the basics of controlling DC motors and using an **L298N motor driver** with an Arduino. I learned how to connect and program the components to control the speed and direction of a **5V DC motor** using **PWM**, a **potentiometer**, and an **H-Bridge circuit**.   
-![Image](Speed%20of%20DC%20motor%20image.jpeg)  
-![Image](Speed%20of%20DC%20motor%20image2.jpeg)  
+![Image](Speed%20of%20DC%20motor%20image.jpeg)   
 [VIDEO](Speed%20of%20DC%20motor%20video.mp4)
 
 ---
@@ -89,7 +88,6 @@ I learned how the soldering iron works and other accessories like the sponge, as
 ## TASK 13: 555 IC ASTABLE MULTIVIBRATOR WITH 60% DUTY CYCLE
 I understood the working of the **555 timer IC**. The task was to design a **555 astable multivibrator** with a **60% duty cycle**. First, I calculated the ratio of resistors required for designing the astable multivibrator. After **3 failed attempts**, on the **fourth attempt**, I achieved a duty cycle of **60.49%**.  
 ![Connections Image](555%20output.jpeg)  
-![Circuit](555%20circuit.jpeg)
 
 ---
 
@@ -101,6 +99,9 @@ The alarm works on the basis of the given truth table:
 [LOGIC GATE VIDEO](k-map%20logic%20gate%20circuit.mp4)
 
 ---
+## TASK 15: Active Participation
+I successfully completed a course on Siemens NX CAD, gaining foundational knowledge and practical skills in computer-aided design (CAD) using this industry-leading software. During the course, I learned how to navigate the Siemens NX interface, create 2D sketches, and develop 3D models efficiently.
+![Certification](https://www.linkedin.com/posts/niranjana-reddy-338686249_siemensnxcad-cadcam-engineering-activity-7272803647040700416-EMLS?utm_source=share&utm_medium=member_desktop)
 
 ## TASK 16: DATASHEETS REPORT WRITING
 The **L293D** is a dual-channel H-bridge motor driver IC, capable of controlling two DC motors independently or one stepper motor. Each channel operates as a full H-bridge, allowing motors to run forward, backward, or stop. It supports a variety of loads such as 4 uni-directional DC motors, 2 bi-directional DC motors, 1 stepper motor, solenoids, or inductive loads.  
@@ -180,3 +181,4 @@ Augmented Reality (AR) overlays digital information and virtual objects onto the
 
 #### Conclusion
 Virtual Reality and Augmented Reality represent the next frontier in how we interact with digital content and environments. While VR takes users to entirely virtual spaces, AR enhances their physical surroundings by adding digital overlays. The rapid development of hardware, software, and connectivity ensures that both technologies are ready to transform industries such as gaming, healthcare, education, and retail. In India, companies are leveraging these technologies to create innovative solutions that cater to local and global markets, signifying the country's growing role in this dynamic field.
+----------------------------------------------------
