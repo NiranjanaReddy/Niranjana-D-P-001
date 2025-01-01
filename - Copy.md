@@ -102,6 +102,7 @@ The alarm works on the basis of the given truth table:
 ---
 ## TASK 15: Active Participation
 I successfully completed a course on Siemens NX CAD, gaining foundational knowledge and practical skills in computer-aided design (CAD) using this industry-leading software. During the course, I learned how to navigate the Siemens NX interface, create 2D sketches, and develop 3D models efficiently.
+![Certification](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/WhatsApp%20Image%202025-01-01%20at%2023.39.49.jpeg)
 
 
 ## TASK 16: DATASHEETS REPORT WRITING
