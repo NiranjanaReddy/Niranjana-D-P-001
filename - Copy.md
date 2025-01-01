@@ -187,3 +187,4 @@ Augmented Reality (AR) overlays digital information and virtual objects onto the
 Virtual Reality and Augmented Reality represent the next frontier in how we interact with digital content and environments. While VR takes users to entirely virtual spaces, AR enhances their physical surroundings by adding digital overlays. The rapid development of hardware, software, and connectivity ensures that both technologies are ready to transform industries such as gaming, healthcare, education, and retail. In India, companies are leveraging these technologies to create innovative solutions that cater to local and global markets, signifying the country's growing role in this dynamic field.
 
 ----------------------------------------------------
+#Thank you!!
