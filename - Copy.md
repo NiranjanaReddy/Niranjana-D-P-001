@@ -16,7 +16,7 @@ In this task, I learned about what an API (Application Programming Interface) is
 
 ## TASK 3: WORKING WITH GITHUB
 In this task, I started by forking the given repository to my GitHub account and cloning it to my computer. Then, I created a new branch called "NiranjanaReddy" to fix an error in the code. The error was caused by a `+1` in the `main.py` file, so I corrected it. After making the changes, I staged and committed them, then pushed the branch to my forked repository. Finally, I created a pull request to merge my changes into the main branch.  
-![Pull Request](Pull%20request%20on%20gitHub.png)  
+![Pull Request](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Pull%20request%20on%20gitHub.png)  
 [GitHub Link](https://github.com/NiranjanaReddy/git-task)  
 
 ---
