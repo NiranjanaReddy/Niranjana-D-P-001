@@ -61,7 +61,7 @@ I wrote an article about **Salt Batteries** and how they are a better alternativ
 ## TASK 9: TINKERCAD
 I started by exploring the **Tinkercad** application, learning how to set up circuits, connect components, and add or edit them as needed. After getting familiar with the basics, I created a new circuit in Tinkercad and simulated the assigned task.  
 **[SIMULATION LINK](https://www.tinkercad.com/things/4vyfyIDaNJv-ultrasonic-radar-with-led)**  
-![Image](tinkercad2.png)
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/tinkercad2.png)
 
 ---
 
