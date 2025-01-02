@@ -116,7 +116,7 @@ To protect the IC and the circuit from voltage spikes generated when the motor i
 ![Image](L293D2.jpg)  
 
 **Pulse Width Modulation (PWM)** is a highly efficient method used to control the speed of DC motors by varying the average voltage delivered to the motor. Instead of supplying a constant voltage, PWM rapidly switches the power on and off, creating pulses. The ratio of the "on" time to the total cycle time, known as the duty cycle, determines the effective voltage. A higher duty cycle results in a faster motor speed, while a lower duty cycle slows it down. The frequency of the PWM signal ensures smooth operation without noticeable jerks.  
-![Image](L293D3.jpg)  
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/L293D3.jpg)  
 
 An **H-Bridge** is an electronic circuit used to control the direction of rotation of a DC motor. It consists of four switches, typically transistors or MOSFETs, arranged in an "H" configuration. By selectively closing these switches, the current can flow through the motor in either direction, enabling forward or reverse rotation. For example, activating one diagonal pair of switches drives the motor forward, while activating the opposite diagonal pair reverses its direction. Turning off all switches stops the motor, and activating both switches on the same side can apply a braking effect.
 
