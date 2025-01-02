@@ -110,7 +110,7 @@ I successfully completed a course on Siemens NX CAD, gaining foundational knowle
 
 ## TASK 16: DATASHEETS REPORT WRITING
 The **L293D** is a dual-channel H-bridge motor driver IC, capable of controlling two DC motors independently or one stepper motor. Each channel operates as a full H-bridge, allowing motors to run forward, backward, or stop. It supports a variety of loads such as 4 uni-directional DC motors, 2 bi-directional DC motors, 1 stepper motor, solenoids, or inductive loads.  
-![Image](L293D1.png)  
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/L293D1.png)  
 
 To protect the IC and the circuit from voltage spikes generated when the motor is de-energized, the **L293D** includes internal kick-back diodes. It operates with motor supply voltages between **4.5V and 36V**, making it compatible with most DC motors. It provides up to **1.2A peak current per channel** and **600mA continuous current**, sufficient for driving small and medium-sized motors.  
 ![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/L293D2.jpg)  
