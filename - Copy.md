@@ -113,7 +113,7 @@ The **L293D** is a dual-channel H-bridge motor driver IC, capable of controlling
 ![Image](L293D1.png)  
 
 To protect the IC and the circuit from voltage spikes generated when the motor is de-energized, the **L293D** includes internal kick-back diodes. It operates with motor supply voltages between **4.5V and 36V**, making it compatible with most DC motors. It provides up to **1.2A peak current per channel** and **600mA continuous current**, sufficient for driving small and medium-sized motors.  
-![Image](L293D2.jpg)  
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/L293D2.jpg)  
 
 **Pulse Width Modulation (PWM)** is a highly efficient method used to control the speed of DC motors by varying the average voltage delivered to the motor. Instead of supplying a constant voltage, PWM rapidly switches the power on and off, creating pulses. The ratio of the "on" time to the total cycle time, known as the duty cycle, determines the effective voltage. A higher duty cycle results in a faster motor speed, while a lower duty cycle slows it down. The frequency of the PWM signal ensures smooth operation without noticeable jerks.  
 ![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/L293D3.jpg)  
