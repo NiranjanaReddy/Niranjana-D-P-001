@@ -99,7 +99,7 @@ I understood the working of the **555 timer IC**. The task was to design a **555
 In this task, I had to design a burglar alarm. First, I started by finding the results of the truth table. The buzzer is activated when the door is opened in the absence of the key. The burglar alarm is denoted by **‘A’**, where `1` means the alarm is activated and `0` means the alarm is off.  
 The alarm works on the basis of the given truth table:  
 ![K-Map 1](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/kmap1.png)  
-![K-Map 2](kmap2.png)  
+![K-Map 2](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/kmap2.png)  
 [LOGIC GATE VIDEO](k-map%20logic%20gate%20circuit.mp4)
 
 ---
