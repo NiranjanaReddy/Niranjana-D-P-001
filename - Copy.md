@@ -84,7 +84,7 @@ I learned how to work with the **ESP32 microcontroller** and its capabilities. I
 ## TASK 12: SOLDERING PREREQUISITES
 I learned how the soldering iron works and other accessories like the sponge, as well as the process of soldering. I then soldered an **LED and resistor** in series and used a **9V battery** to light up the LED.  
 ![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Soldering1.jpeg)  
-![Image](Soldering2.jpeg)
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Soldering2.jpeg)
 
 ---
 
