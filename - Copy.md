@@ -77,7 +77,7 @@ This task helped me understand the basics of controlling DC motors and using an 
 I learned how to work with the **ESP32 microcontroller** and its capabilities. I also learned about configuring the Arduino IDE to program the ESP32, which involved installing the necessary board libraries and drivers. I made the connection, copied the code, and uploaded it to the ESP32. I entered the mobile hotspot credentials into the code and changed the baud rate to `115200`. During compilation, an **IP Address** was generated, which, when pasted into a browser, allowed me to toggle the LED using the website.  
 ![LED On](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/LED%20Toggle%20circuit%20on.jpeg)  
 ![LED Off](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/LED%20Toggle%20circuit%20off.jpeg)  
-[VIDEO](LED%20toggle%20video.mp4)
+[VIDEO](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/LED%20toggle%20video.mp4)
 
 ---
 
