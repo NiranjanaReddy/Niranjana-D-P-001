@@ -100,7 +100,7 @@ In this task, I had to design a burglar alarm. First, I started by finding the r
 The alarm works on the basis of the given truth table:  
 ![K-Map 1](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/kmap1.png)  
 ![K-Map 2](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/kmap2.png)  
-[LOGIC GATE VIDEO](k-map%20logic%20gate%20circuit.mp4)
+[LOGIC GATE VIDEO](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/k-map%20logic%20gate%20circuit.mp4)
 
 ---
 ## TASK 15: Active Participation
