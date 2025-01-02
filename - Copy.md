@@ -24,7 +24,7 @@ In this task, I started by forking the given repository to my GitHub account and
 ## TASK 4: UBUNTU COMMAND LINE
 I learned how the Ubuntu command line works. I created a test folder, opened it, and then created **2600 folders** as mentioned in the task.  
 ![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Ubuntu%20bash.png)  
-![Image](Ubuntu%20bash2.png)
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Ubuntu%20bash2.png)
 
 ---
 
