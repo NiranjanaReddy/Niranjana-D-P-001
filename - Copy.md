@@ -69,7 +69,7 @@ I started by exploring the **Tinkercad** application, learning how to set up cir
 This task helped me understand the basics of controlling DC motors and using an **L298N motor driver** with an Arduino. I learned how to connect and program the components to control the speed and direction of a **5V DC motor** using **PWM**, a **potentiometer**, and an **H-Bridge circuit**.   
 ![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Speed%20of%20DC%20motor%20image.jpeg)  
 ![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Speed%20pf%20DC%20motor%20image2.jpeg)
-[VIDEO](Speed%20of%20DC%20motor%20video.mp4)
+[VIDEO](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Speed%20of%20DC%20motor%20video.mp4)
 
 ---
 
