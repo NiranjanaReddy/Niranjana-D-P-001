@@ -30,7 +30,7 @@ I learned how the Ubuntu command line works. I created a test folder, opened it,
 
 ## TASK 5: KAGGLE CONTEST
 I used the Random Forest Classifier model and predicted the outcome of survival of the remaining passengers aboard the Titanic in the test CSV file and logged the data in a new CSV file.  
-![Image](/Kaggle1.png)
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Kaggle1.png)
 
 ---
 
