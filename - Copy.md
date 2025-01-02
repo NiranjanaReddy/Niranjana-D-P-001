@@ -2,7 +2,7 @@
 
 ## TASK 1: 3D PRINTING
 Through this task, I learned the fundamentals of 3D printing, including how the printer operates and the purpose of STL files in defining 3D object geometry. I understood how to use **Creality Slicer** to convert STL files into G-code for printing. Additionally, I explored critical printer settings such as **bed temperature, infill density, nozzle temperature**, and their impact on the print's quality, especially when using PLA material. By studying the SOPs, I learned how to safely and efficiently operate the 3D printer. Finally, by slicing and printing an STL file, I gained hands-on experience with the entire 3D printing workflow, from preparation to printing.  
-**IMAGE**
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Screenshot%20(43).png)
 
 ---
 
