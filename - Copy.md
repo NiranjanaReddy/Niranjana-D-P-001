@@ -46,7 +46,7 @@ I created a dataset of **Sales and Profit** for the first 6 months of the year a
 ## TASK 7: PORTFOLIO WEBSITE
 Using **HTML, CSS, and JavaScript**, I designed my portfolio website.  
 ![Portfolio Image 1](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/portfolio1.png)  
-![Portfolio Image 2](portfolio2.png)  
+![Portfolio Image 2](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/portfolio2.pnghttps://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/portfolio2.png)  
 **[GITHUB LINK](https://github.com/NiranjanaReddy/My-Portfolio)**
 
 ---
