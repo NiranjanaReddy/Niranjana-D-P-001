@@ -9,7 +9,7 @@ Through this task, I learned the fundamentals of 3D printing, including how the 
 
 ## TASK 2: API
 In this task, I learned about what an API (Application Programming Interface) is and how it enables communication between different software applications. In the app, I used **JavaScript, HTML, and CSS**, but only basic CSS.  
-![Image](/Screenshot%20(40).png)    
+![Image](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Screenshot%20(40).pnghttps://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Screenshot%20(40).png)    
 **[GITHUB LINK](https://github.com/NiranjanaReddy/WeatherAPI)**
 
 ---
