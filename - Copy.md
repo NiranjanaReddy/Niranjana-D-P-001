@@ -37,7 +37,7 @@ I used the Random Forest Classifier model and predicted the outcome of survival 
 ## TASK 6: WORKING WITH PANDAS AND MATPLOTLIB
 I created a dataset of **Sales and Profit** for the first 6 months of the year and plotted the **line, bar, and scatter plots**. I used **Google Colab** to plot these graphs.  
 ![Line Graph](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/line%20graph.png)  
-![Bar Graph](Bar%20graph.png)  
+![Bar Graph](https://github.com/NiranjanaReddy/Niranjana-D-P-001/blob/main/Bar%20graph.png)  
 ![Scatter Plot](Scatter%20graph.png)  
 **[GITHUB LINK](https://github.com/NiranjanaReddy/Pandas_Matplotlib)**
 
